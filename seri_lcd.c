@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Library            : I2C LCD                                                *
- * Author             : UNITEC                                                 *
- * Web                : www.facebook.com/unitec                                *
+ * Author             : gencmucitler                                           *
+ * Web                : https://github.com/gencmucitler                        *
  * Creation date      : 02/04/17                                               *
  * Arrangement        : 23/10/17                                               *
  * Version            : 0.4                                                    *
