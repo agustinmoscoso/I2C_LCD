@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Library            : I2C LCD                                                *
- * Author             : UNITEC                                                 *
- * Web                : www.facebook.com/unitec                                *
+ * Author             : gencmucitler                                           *
+ * Web                : https://github.com/gencmucitler                        *
  * Creation date      : 02/04/17                                               *
  * Arrangement        : 23/10/17                                               *
  * Version            : 0.4                                                    *
@@ -56,7 +56,7 @@ void pcf8574_write(char data) {
             break;
 
         // Send data again if not sent.
-        // Exit if the number of failed repetitions has been reached.
+Â Â Â Â Â Â Â Â // Exit if the number of failed repetitions has been reached.
         if (timeOut == pcf_again)
             break;
         else
